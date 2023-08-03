@@ -31,6 +31,8 @@ public class Test_001 {
        s.selectByIndex(3);
        Thread.sleep(1000);
        s.selectByValue("ec");
+       
+       System.out.println("I have made changes");
 	    
 	}
 
